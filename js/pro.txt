@@ -1,0 +1,8 @@
+const nombre = "julian";
+console.log(nombre);
+
+aprende javascript con julian 
+
+let multiplicacion = 20 * 20;
+
+console.log(multiplicacion);

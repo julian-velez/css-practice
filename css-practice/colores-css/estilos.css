@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial;
+}
+
+.container {
+  margin: 50px auto;
+  width: 90%;
+  height: 500px;
+  background-image: linear-gradient(#000, #f098),
+    url("https://img.freepik.com/free-photo/beautiful-fish-swimming-around-corals-sea_181624-10112.jpg?w=1060&t=st=1704589880~exp=1704590480~hmac=02b598548ff5183d50764fe07c79703b4610d0bb97bf919770d0d6f0addc186b");
+  background-size: cover;
+  background-position: center;
+}

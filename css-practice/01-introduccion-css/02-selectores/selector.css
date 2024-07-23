@@ -1,0 +1,56 @@
+/* selector universal*/
+
+/* 
+ letter-spacing: 10px;
+} */
+
+/* selector de tipo */
+
+body {
+  font-family: 'Arial';
+}
+
+
+h2 {
+    color: cyan;
+    font-size: 40px;
+}
+
+li {
+    color: cornflowerblue;
+    font-size: 20px;
+}
+
+/* selector de clase */
+
+.peliculas {
+  color: crimson;
+}
+
+.series {
+  font-size: 40px;
+}
+
+.favoritas {
+  font-weight: bold;
+  color: chartreuse;
+  /* font-size: 25px; */
+}
+
+.espaciado{
+  letter-spacing: 10px;
+}
+
+/* selector de ID */
+#spidermanNoWayHome{
+  font-size: 25px;
+  color: tomato;
+  text-decoration: underline;
+}
+
+#temporada3{
+  color: seagreen;
+  font-size: 14px;
+}
+
+

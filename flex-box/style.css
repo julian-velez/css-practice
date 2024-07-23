@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Arial";
+}
+
+.container {
+  width: 90%;
+  max-width: 800px;
+  min-height: 600px;
+  margin: 80px auto;
+  border: 3px solid #000;
+  display: flex;
+  /* flex-wrap: wrap-reverse; */
+  /* flex-direction: row; */
+  /* flex-wrap: wrap; */
+  /* justify-content: space-evenly;
+  align-content:center; */
+  
+}
+
+.element {
+  color: #fff;
+  font-size: 2rem;
+  text-align: center;
+  line-height: 100px;
+  width: 100px;
+  height: 100px;
+  flex-grow:1;
+}
+
+.element1 {
+  background-color: crimson;
+}
+
+.element2 {
+  background-color: purple;
+  flex-grow: 2;
+}
+
+.element3 {
+  background-color: steelblue;
+
+}

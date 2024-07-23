@@ -1,0 +1,13 @@
+[value] {
+  display: block; /* selector atributo*/
+  width: 90%;
+  margin-top: 20px;
+}
+
+[value*="cursocss.com"] {
+  background-color: tomato;
+}
+
+/* pseudoelementos 
+pseudoclases
+*/
